@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=udhayakumar">
+    <img src="https://komarev.com/ghpvc/?username=udhayakumar&label=Profile%20views&color=00FFFF&style=flat-square" alt="udhayakumar's profile views" />
   </a>
 </p>
 
@@ -44,7 +45,7 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /></p>
 
 > ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
   <a href="https://github.com/udhayakumar">
